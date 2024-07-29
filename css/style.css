@@ -35,6 +35,25 @@ figure, figure > img{
     border-radius: 10px;
 }
 
+#learning, #author > p{
+    font: normal 800 14px/150% "Figtree";
+    color: #111111;
+    
+}
+
+#date{
+    font: normal 500 14px/150% "Figtree";
+}
+
+h1{
+    font: normal 800 24px/150% "Figtree";
+}
+
+#principal{
+    font: normal 500 16px/150% "Figtree";
+    color: #6B6B6B;
+}
+
 #author > image{
     height: 32px;
     width: 32px;
